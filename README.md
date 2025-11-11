@@ -1,6 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
-##  NAME : HIRUTHIK SUDHAKAR
-## REGISTER NUMBER : 212223240054
+##  NAME : RESHMA G
+## REGISTER NUMBER : 212224040273
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
